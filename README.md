@@ -9,7 +9,7 @@ Base is from Tomato's [version](https://github.com/Tomato6966/discord-yt-poster)
 ## **Installation**
 
 ```sh
-npm install discord-youtube@latest
+npm install quangloc24/discord-yotube@latest
 ```
 
 ```js
